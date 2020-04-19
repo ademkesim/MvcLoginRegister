@@ -2518,6 +2518,21 @@
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
       },
+      "Business/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Core": "1.0.0",
+          "DataAccess": "1.0.0",
+          "Entities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Business.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Business.dll": {}
+        }
+      },
       "Core/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
@@ -2532,6 +2547,19 @@
         },
         "runtime": {
           "bin/placeholder/Core.dll": {}
+        }
+      },
+      "DataAccess/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Entities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DataAccess.dll": {}
         }
       },
       "Entities/1.0.0": {
@@ -8317,10 +8345,20 @@
         "system.xml.xmlserializer.nuspec"
       ]
     },
+    "Business/1.0.0": {
+      "type": "project",
+      "path": "../Business/Business.csproj",
+      "msbuildProject": "../Business/Business.csproj"
+    },
     "Core/1.0.0": {
       "type": "project",
       "path": "../Core/Core.csproj",
       "msbuildProject": "../Core/Core.csproj"
+    },
+    "DataAccess/1.0.0": {
+      "type": "project",
+      "path": "../DataAccess/DataAccess.csproj",
+      "msbuildProject": "../DataAccess/DataAccess.csproj"
     },
     "Entities/1.0.0": {
       "type": "project",
@@ -8330,28 +8368,29 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "Business >= 1.0.0",
       "Entities >= 1.0.0",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 3.1.1"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Ferit\\.nuget\\packages\\": {},
+    "C:\\Users\\hhson\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ferit\\Source\\Repos\\MvcLoginRegister\\WebMvc\\WebMvc\\WebMvc.csproj",
+      "projectUniqueName": "C:\\Users\\hhson\\Source\\Repos\\MvcLoginRegister3\\WebMvc\\WebMvc\\WebMvc.csproj",
       "projectName": "WebMvc",
-      "projectPath": "C:\\Users\\Ferit\\Source\\Repos\\MvcLoginRegister\\WebMvc\\WebMvc\\WebMvc.csproj",
-      "packagesPath": "C:\\Users\\Ferit\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ferit\\Source\\Repos\\MvcLoginRegister\\WebMvc\\WebMvc\\obj\\",
+      "projectPath": "C:\\Users\\hhson\\Source\\Repos\\MvcLoginRegister3\\WebMvc\\WebMvc\\WebMvc.csproj",
+      "packagesPath": "C:\\Users\\hhson\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\hhson\\Source\\Repos\\MvcLoginRegister3\\WebMvc\\WebMvc\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Ferit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\hhson\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8364,8 +8403,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Ferit\\Source\\Repos\\MvcLoginRegister\\WebMvc\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\Ferit\\Source\\Repos\\MvcLoginRegister\\WebMvc\\Entities\\Entities.csproj"
+            "C:\\Users\\hhson\\Source\\Repos\\MvcLoginRegister3\\WebMvc\\Business\\Business.csproj": {
+              "projectPath": "C:\\Users\\hhson\\Source\\Repos\\MvcLoginRegister3\\WebMvc\\Business\\Business.csproj"
+            },
+            "C:\\Users\\hhson\\Source\\Repos\\MvcLoginRegister3\\WebMvc\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\hhson\\Source\\Repos\\MvcLoginRegister3\\WebMvc\\Entities\\Entities.csproj"
             }
           }
         }

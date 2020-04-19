@@ -16,5 +16,9 @@ namespace Entities.Dtos
         [DataType(DataType.Password)]
         public string Password { get; set; }
 
+        public static implicit operator UserForLoginDto(List<UserForLoginDto> v)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

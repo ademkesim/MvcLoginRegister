@@ -38,3 +38,12 @@ C:\PoldyProjects\MvcLoginRegister\WebMvc\Core\obj\Debug\netstandard2.0\Core.Asse
 C:\PoldyProjects\MvcLoginRegister\WebMvc\Core\obj\Debug\netstandard2.0\Core.AssemblyInfo.cs
 C:\PoldyProjects\MvcLoginRegister\WebMvc\Core\obj\Debug\netstandard2.0\Core.dll
 C:\PoldyProjects\MvcLoginRegister\WebMvc\Core\obj\Debug\netstandard2.0\Core.pdb
+C:\Users\hhson\Source\Repos\MvcLoginRegister3\WebMvc\Core\bin\Debug\netstandard2.0\Core.deps.json
+C:\Users\hhson\Source\Repos\MvcLoginRegister3\WebMvc\Core\bin\Debug\netstandard2.0\Core.dll
+C:\Users\hhson\Source\Repos\MvcLoginRegister3\WebMvc\Core\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\hhson\Source\Repos\MvcLoginRegister3\WebMvc\Core\obj\Debug\netstandard2.0\Core.csprojAssemblyReference.cache
+C:\Users\hhson\Source\Repos\MvcLoginRegister3\WebMvc\Core\obj\Debug\netstandard2.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\hhson\Source\Repos\MvcLoginRegister3\WebMvc\Core\obj\Debug\netstandard2.0\Core.AssemblyInfoInputs.cache
+C:\Users\hhson\Source\Repos\MvcLoginRegister3\WebMvc\Core\obj\Debug\netstandard2.0\Core.AssemblyInfo.cs
+C:\Users\hhson\Source\Repos\MvcLoginRegister3\WebMvc\Core\obj\Debug\netstandard2.0\Core.dll
+C:\Users\hhson\Source\Repos\MvcLoginRegister3\WebMvc\Core\obj\Debug\netstandard2.0\Core.pdb

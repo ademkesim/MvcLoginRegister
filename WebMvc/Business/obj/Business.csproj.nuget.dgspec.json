@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ferit\\Source\\Repos\\MvcLoginRegister\\WebMvc\\Business\\Business.csproj": {}
+    "C:\\Users\\hhson\\Source\\Repos\\MvcLoginRegister3\\WebMvc\\Business\\Business.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ferit\\Source\\Repos\\MvcLoginRegister\\WebMvc\\Business\\Business.csproj": {
+    "C:\\Users\\hhson\\Source\\Repos\\MvcLoginRegister3\\WebMvc\\Business\\Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ferit\\Source\\Repos\\MvcLoginRegister\\WebMvc\\Business\\Business.csproj",
+        "projectUniqueName": "C:\\Users\\hhson\\Source\\Repos\\MvcLoginRegister3\\WebMvc\\Business\\Business.csproj",
         "projectName": "Business",
-        "projectPath": "C:\\Users\\Ferit\\Source\\Repos\\MvcLoginRegister\\WebMvc\\Business\\Business.csproj",
-        "packagesPath": "C:\\Users\\Ferit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ferit\\Source\\Repos\\MvcLoginRegister\\WebMvc\\Business\\obj\\",
+        "projectPath": "C:\\Users\\hhson\\Source\\Repos\\MvcLoginRegister3\\WebMvc\\Business\\Business.csproj",
+        "packagesPath": "C:\\Users\\hhson\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hhson\\Source\\Repos\\MvcLoginRegister3\\WebMvc\\Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Ferit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\hhson\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -30,14 +30,14 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\Ferit\\Source\\Repos\\MvcLoginRegister\\WebMvc\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\Ferit\\Source\\Repos\\MvcLoginRegister\\WebMvc\\Core\\Core.csproj"
+              "C:\\Users\\hhson\\Source\\Repos\\MvcLoginRegister3\\WebMvc\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\hhson\\Source\\Repos\\MvcLoginRegister3\\WebMvc\\Core\\Core.csproj"
               },
-              "C:\\Users\\Ferit\\Source\\Repos\\MvcLoginRegister\\WebMvc\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\Ferit\\Source\\Repos\\MvcLoginRegister\\WebMvc\\DataAccess\\DataAccess.csproj"
+              "C:\\Users\\hhson\\Source\\Repos\\MvcLoginRegister3\\WebMvc\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\hhson\\Source\\Repos\\MvcLoginRegister3\\WebMvc\\DataAccess\\DataAccess.csproj"
               },
-              "C:\\Users\\Ferit\\Source\\Repos\\MvcLoginRegister\\WebMvc\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\Ferit\\Source\\Repos\\MvcLoginRegister\\WebMvc\\Entities\\Entities.csproj"
+              "C:\\Users\\hhson\\Source\\Repos\\MvcLoginRegister3\\WebMvc\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\hhson\\Source\\Repos\\MvcLoginRegister3\\WebMvc\\Entities\\Entities.csproj"
               }
             }
           }
@@ -72,20 +72,20 @@
         }
       }
     },
-    "C:\\Users\\Ferit\\Source\\Repos\\MvcLoginRegister\\WebMvc\\Core\\Core.csproj": {
+    "C:\\Users\\hhson\\Source\\Repos\\MvcLoginRegister3\\WebMvc\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ferit\\Source\\Repos\\MvcLoginRegister\\WebMvc\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\hhson\\Source\\Repos\\MvcLoginRegister3\\WebMvc\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\Ferit\\Source\\Repos\\MvcLoginRegister\\WebMvc\\Core\\Core.csproj",
-        "packagesPath": "C:\\Users\\Ferit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ferit\\Source\\Repos\\MvcLoginRegister\\WebMvc\\Core\\obj\\",
+        "projectPath": "C:\\Users\\hhson\\Source\\Repos\\MvcLoginRegister3\\WebMvc\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\hhson\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hhson\\Source\\Repos\\MvcLoginRegister3\\WebMvc\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Ferit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\hhson\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -146,20 +146,20 @@
         }
       }
     },
-    "C:\\Users\\Ferit\\Source\\Repos\\MvcLoginRegister\\WebMvc\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\hhson\\Source\\Repos\\MvcLoginRegister3\\WebMvc\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ferit\\Source\\Repos\\MvcLoginRegister\\WebMvc\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\hhson\\Source\\Repos\\MvcLoginRegister3\\WebMvc\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\Ferit\\Source\\Repos\\MvcLoginRegister\\WebMvc\\DataAccess\\DataAccess.csproj",
-        "packagesPath": "C:\\Users\\Ferit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ferit\\Source\\Repos\\MvcLoginRegister\\WebMvc\\DataAccess\\obj\\",
+        "projectPath": "C:\\Users\\hhson\\Source\\Repos\\MvcLoginRegister3\\WebMvc\\DataAccess\\DataAccess.csproj",
+        "packagesPath": "C:\\Users\\hhson\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hhson\\Source\\Repos\\MvcLoginRegister3\\WebMvc\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Ferit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\hhson\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -172,8 +172,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\Ferit\\Source\\Repos\\MvcLoginRegister\\WebMvc\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\Ferit\\Source\\Repos\\MvcLoginRegister\\WebMvc\\Entities\\Entities.csproj"
+              "C:\\Users\\hhson\\Source\\Repos\\MvcLoginRegister3\\WebMvc\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\hhson\\Source\\Repos\\MvcLoginRegister3\\WebMvc\\Entities\\Entities.csproj"
               }
             }
           }
@@ -208,20 +208,20 @@
         }
       }
     },
-    "C:\\Users\\Ferit\\Source\\Repos\\MvcLoginRegister\\WebMvc\\Entities\\Entities.csproj": {
+    "C:\\Users\\hhson\\Source\\Repos\\MvcLoginRegister3\\WebMvc\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ferit\\Source\\Repos\\MvcLoginRegister\\WebMvc\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\hhson\\Source\\Repos\\MvcLoginRegister3\\WebMvc\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\Ferit\\Source\\Repos\\MvcLoginRegister\\WebMvc\\Entities\\Entities.csproj",
-        "packagesPath": "C:\\Users\\Ferit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ferit\\Source\\Repos\\MvcLoginRegister\\WebMvc\\Entities\\obj\\",
+        "projectPath": "C:\\Users\\hhson\\Source\\Repos\\MvcLoginRegister3\\WebMvc\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\hhson\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hhson\\Source\\Repos\\MvcLoginRegister3\\WebMvc\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Ferit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\hhson\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -234,8 +234,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\Ferit\\Source\\Repos\\MvcLoginRegister\\WebMvc\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\Ferit\\Source\\Repos\\MvcLoginRegister\\WebMvc\\Core\\Core.csproj"
+              "C:\\Users\\hhson\\Source\\Repos\\MvcLoginRegister3\\WebMvc\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\hhson\\Source\\Repos\\MvcLoginRegister3\\WebMvc\\Core\\Core.csproj"
               }
             }
           }
