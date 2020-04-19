@@ -6,3 +6,11 @@ C:\PoldyProjects\MvcLoginRegister\WebMvc\Business\obj\Debug\netstandard2.0\Busin
 C:\PoldyProjects\MvcLoginRegister\WebMvc\Business\obj\Debug\netstandard2.0\Business.AssemblyInfo.cs
 C:\PoldyProjects\MvcLoginRegister\WebMvc\Business\obj\Debug\netstandard2.0\Business.dll
 C:\PoldyProjects\MvcLoginRegister\WebMvc\Business\obj\Debug\netstandard2.0\Business.pdb
+C:\PoldyProjects\MvcLoginRegister\WebMvc\Business\obj\Debug\netstandard2.0\Business.csprojAssemblyReference.cache
+C:\PoldyProjects\MvcLoginRegister\WebMvc\Business\bin\Debug\netstandard2.0\Core.dll
+C:\PoldyProjects\MvcLoginRegister\WebMvc\Business\bin\Debug\netstandard2.0\DataAccess.dll
+C:\PoldyProjects\MvcLoginRegister\WebMvc\Business\bin\Debug\netstandard2.0\Entities.dll
+C:\PoldyProjects\MvcLoginRegister\WebMvc\Business\bin\Debug\netstandard2.0\Core.pdb
+C:\PoldyProjects\MvcLoginRegister\WebMvc\Business\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\PoldyProjects\MvcLoginRegister\WebMvc\Business\bin\Debug\netstandard2.0\Entities.pdb
+C:\PoldyProjects\MvcLoginRegister\WebMvc\Business\obj\Debug\netstandard2.0\Business.csproj.CopyComplete

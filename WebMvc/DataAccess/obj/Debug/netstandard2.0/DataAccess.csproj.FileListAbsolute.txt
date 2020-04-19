@@ -7,3 +7,8 @@ C:\PoldyProjects\MvcLoginRegister\WebMvc\DataAccess\obj\Debug\netstandard2.0\Dat
 C:\PoldyProjects\MvcLoginRegister\WebMvc\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
 C:\PoldyProjects\MvcLoginRegister\WebMvc\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
 C:\PoldyProjects\MvcLoginRegister\WebMvc\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
+C:\PoldyProjects\MvcLoginRegister\WebMvc\DataAccess\bin\Debug\netstandard2.0\Core.dll
+C:\PoldyProjects\MvcLoginRegister\WebMvc\DataAccess\bin\Debug\netstandard2.0\Entities.dll
+C:\PoldyProjects\MvcLoginRegister\WebMvc\DataAccess\bin\Debug\netstandard2.0\Entities.pdb
+C:\PoldyProjects\MvcLoginRegister\WebMvc\DataAccess\bin\Debug\netstandard2.0\Core.pdb
+C:\PoldyProjects\MvcLoginRegister\WebMvc\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
