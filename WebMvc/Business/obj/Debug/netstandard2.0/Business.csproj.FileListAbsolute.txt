@@ -1,0 +1,8 @@
+C:\PoldyProjects\MvcLoginRegister\WebMvc\Business\bin\Debug\netstandard2.0\Business.deps.json
+C:\PoldyProjects\MvcLoginRegister\WebMvc\Business\bin\Debug\netstandard2.0\Business.dll
+C:\PoldyProjects\MvcLoginRegister\WebMvc\Business\bin\Debug\netstandard2.0\Business.pdb
+C:\PoldyProjects\MvcLoginRegister\WebMvc\Business\obj\Debug\netstandard2.0\Business.csproj.CoreCompileInputs.cache
+C:\PoldyProjects\MvcLoginRegister\WebMvc\Business\obj\Debug\netstandard2.0\Business.AssemblyInfoInputs.cache
+C:\PoldyProjects\MvcLoginRegister\WebMvc\Business\obj\Debug\netstandard2.0\Business.AssemblyInfo.cs
+C:\PoldyProjects\MvcLoginRegister\WebMvc\Business\obj\Debug\netstandard2.0\Business.dll
+C:\PoldyProjects\MvcLoginRegister\WebMvc\Business\obj\Debug\netstandard2.0\Business.pdb

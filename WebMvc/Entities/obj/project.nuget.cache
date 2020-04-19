@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y1rxAiUBztHACWiMDkXCvkGTMOMGktyp9UhK6zT6d7C+vHZ00F3vcYY3xmzjmVsYoArx12CyHiqBtg+APbcmlA==",
+  "success": true,
+  "projectFilePath": "C:\\PoldyProjects\\MvcLoginRegister\\WebMvc\\Entities\\Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ademk\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ademk\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
