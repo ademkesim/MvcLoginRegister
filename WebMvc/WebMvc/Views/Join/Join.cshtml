@@ -1,0 +1,45 @@
+
+@{
+    ViewData["Title"] = "Join";
+    Layout = "_JoinLayout";
+}
+
+
+<div class="container" id="container">
+    <div class="form-container sign-up-container">
+        <form action="#">
+            <h1>Hesap Oluştur</h1>
+            <input type="text" placeholder="Ad" />
+            <input type="text" placeholder="Soyad" />
+            <input type="email" placeholder="Email" />
+            <input type="password" placeholder="Şifre" />
+            <input type="password" placeholder="Şifreyi yeniden girin" />
+            <button class="hvr-grow-shadow">Kaydol</button>
+        </form>
+    </div>
+    <div class="form-container sign-in-container">
+        <form action="#">
+            <h1>GİRİŞ YAP</h1>
+            <input type="email" placeholder="Email" />
+            <input type="password" placeholder="Şifre" />
+            <a href="forget-pass.html">Şifreni mi unuttun?</a>
+            <button class="hvr-grow-shadow">GİRİŞ</button>
+        </form>
+    </div>
+    <div class="overlay-container">
+        <div class="overlay">
+            <div class="overlay-panel overlay-left">
+                <h1>Hoşgeldin!</h1>
+                <p>Mevcut bir hesabın varsa giriş yap.</p>
+                <button class="ghost" id="signIn">GİRİŞ</button>
+            </div>
+            <div class="overlay-panel overlay-right">
+                <h1>Hesabın yok mu?</h1>
+                <p>Saniyeler içerisinde kaydol, CV'ni oluştur, başvurunu yap!</p>
+                <button class="ghost" id="signUp">Kaydol</button>
+            </div>
+        </div>
+    </div>
+
+</div>
+

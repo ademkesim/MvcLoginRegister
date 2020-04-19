@@ -1,25 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\PoldyProjects\\MvcLoginRegister\\WebMvc\\WebMvc\\WebMvc.csproj": {}
+    "C:\\Users\\retat\\Source\\Repos\\MvcLoginRegister\\WebMvc\\WebMvc\\WebMvc.csproj": {}
   },
   "projects": {
-    "C:\\PoldyProjects\\MvcLoginRegister\\WebMvc\\WebMvc\\WebMvc.csproj": {
+    "C:\\Users\\retat\\Source\\Repos\\MvcLoginRegister\\WebMvc\\WebMvc\\WebMvc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\PoldyProjects\\MvcLoginRegister\\WebMvc\\WebMvc\\WebMvc.csproj",
+        "projectUniqueName": "C:\\Users\\retat\\Source\\Repos\\MvcLoginRegister\\WebMvc\\WebMvc\\WebMvc.csproj",
         "projectName": "WebMvc",
-        "projectPath": "C:\\PoldyProjects\\MvcLoginRegister\\WebMvc\\WebMvc\\WebMvc.csproj",
-        "packagesPath": "C:\\Users\\ademk\\.nuget\\packages\\",
-        "outputPath": "C:\\PoldyProjects\\MvcLoginRegister\\WebMvc\\WebMvc\\obj\\",
+        "projectPath": "C:\\Users\\retat\\Source\\Repos\\MvcLoginRegister\\WebMvc\\WebMvc\\WebMvc.csproj",
+        "packagesPath": "C:\\Users\\retat\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\retat\\Source\\Repos\\MvcLoginRegister\\WebMvc\\WebMvc\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ademk\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\retat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -41,6 +37,12 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

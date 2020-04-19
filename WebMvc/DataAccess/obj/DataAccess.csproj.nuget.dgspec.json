@@ -1,25 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\PoldyProjects\\MvcLoginRegister\\WebMvc\\DataAccess\\DataAccess.csproj": {}
+    "C:\\Users\\retat\\Source\\Repos\\MvcLoginRegister\\WebMvc\\DataAccess\\DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\PoldyProjects\\MvcLoginRegister\\WebMvc\\Core\\Core.csproj": {
+    "C:\\Users\\retat\\Source\\Repos\\MvcLoginRegister\\WebMvc\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\PoldyProjects\\MvcLoginRegister\\WebMvc\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\retat\\Source\\Repos\\MvcLoginRegister\\WebMvc\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\PoldyProjects\\MvcLoginRegister\\WebMvc\\Core\\Core.csproj",
-        "packagesPath": "C:\\Users\\ademk\\.nuget\\packages\\",
-        "outputPath": "C:\\PoldyProjects\\MvcLoginRegister\\WebMvc\\Core\\obj\\",
+        "projectPath": "C:\\Users\\retat\\Source\\Repos\\MvcLoginRegister\\WebMvc\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\retat\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\retat\\Source\\Repos\\MvcLoginRegister\\WebMvc\\Core\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ademk\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\retat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
@@ -79,22 +75,18 @@
         }
       }
     },
-    "C:\\PoldyProjects\\MvcLoginRegister\\WebMvc\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\retat\\Source\\Repos\\MvcLoginRegister\\WebMvc\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\PoldyProjects\\MvcLoginRegister\\WebMvc\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\retat\\Source\\Repos\\MvcLoginRegister\\WebMvc\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\PoldyProjects\\MvcLoginRegister\\WebMvc\\DataAccess\\DataAccess.csproj",
-        "packagesPath": "C:\\Users\\ademk\\.nuget\\packages\\",
-        "outputPath": "C:\\PoldyProjects\\MvcLoginRegister\\WebMvc\\DataAccess\\obj\\",
+        "projectPath": "C:\\Users\\retat\\Source\\Repos\\MvcLoginRegister\\WebMvc\\DataAccess\\DataAccess.csproj",
+        "packagesPath": "C:\\Users\\retat\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\retat\\Source\\Repos\\MvcLoginRegister\\WebMvc\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ademk\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\retat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
@@ -106,8 +98,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\PoldyProjects\\MvcLoginRegister\\WebMvc\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\PoldyProjects\\MvcLoginRegister\\WebMvc\\Entities\\Entities.csproj"
+              "C:\\Users\\retat\\Source\\Repos\\MvcLoginRegister\\WebMvc\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\retat\\Source\\Repos\\MvcLoginRegister\\WebMvc\\Entities\\Entities.csproj"
               }
             }
           }
@@ -142,22 +134,18 @@
         }
       }
     },
-    "C:\\PoldyProjects\\MvcLoginRegister\\WebMvc\\Entities\\Entities.csproj": {
+    "C:\\Users\\retat\\Source\\Repos\\MvcLoginRegister\\WebMvc\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\PoldyProjects\\MvcLoginRegister\\WebMvc\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\retat\\Source\\Repos\\MvcLoginRegister\\WebMvc\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\PoldyProjects\\MvcLoginRegister\\WebMvc\\Entities\\Entities.csproj",
-        "packagesPath": "C:\\Users\\ademk\\.nuget\\packages\\",
-        "outputPath": "C:\\PoldyProjects\\MvcLoginRegister\\WebMvc\\Entities\\obj\\",
+        "projectPath": "C:\\Users\\retat\\Source\\Repos\\MvcLoginRegister\\WebMvc\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\retat\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\retat\\Source\\Repos\\MvcLoginRegister\\WebMvc\\Entities\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ademk\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\retat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
@@ -169,8 +157,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\PoldyProjects\\MvcLoginRegister\\WebMvc\\Core\\Core.csproj": {
-                "projectPath": "C:\\PoldyProjects\\MvcLoginRegister\\WebMvc\\Core\\Core.csproj"
+              "C:\\Users\\retat\\Source\\Repos\\MvcLoginRegister\\WebMvc\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\retat\\Source\\Repos\\MvcLoginRegister\\WebMvc\\Core\\Core.csproj"
               }
             }
           }
