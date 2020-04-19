@@ -2,7 +2,6 @@ C:\PoldyProjects\MvcLoginRegister\WebMvc\DataAccess\bin\Debug\netstandard2.0\Dat
 C:\PoldyProjects\MvcLoginRegister\WebMvc\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
 C:\PoldyProjects\MvcLoginRegister\WebMvc\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
 C:\PoldyProjects\MvcLoginRegister\WebMvc\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
-C:\PoldyProjects\MvcLoginRegister\WebMvc\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
 C:\PoldyProjects\MvcLoginRegister\WebMvc\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
 C:\PoldyProjects\MvcLoginRegister\WebMvc\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
 C:\PoldyProjects\MvcLoginRegister\WebMvc\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
@@ -26,3 +25,4 @@ C:\Users\hhson\Source\Repos\MvcLoginRegister3\WebMvc\DataAccess\obj\Debug\netsta
 C:\Users\hhson\Source\Repos\MvcLoginRegister3\WebMvc\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
 C:\Users\hhson\Source\Repos\MvcLoginRegister3\WebMvc\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
 C:\Users\hhson\Source\Repos\MvcLoginRegister3\WebMvc\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
+C:\PoldyProjects\MvcLoginRegister\WebMvc\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache

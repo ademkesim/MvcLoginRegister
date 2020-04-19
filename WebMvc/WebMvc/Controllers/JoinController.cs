@@ -11,16 +11,15 @@ namespace WebMvc.Controllers
 {
     public class JoinController : Controller
     {
-     private IAuthService _authService;
+        private IAuthService _authService;
         public JoinController(IAuthService authService)
         {
             _authService = authService;
         }
-        [Route(template: "login")]
         [HttpPost]
         [ValidateAntiForgeryToken]
 
-        public  IActionResult Login(AuthModel authModel)
+        public IActionResult Login(AuthModel authModel)
         {
             if (!ModelState.IsValid)
             {
@@ -42,8 +41,25 @@ namespace WebMvc.Controllers
             return BadRequest(result.Message);
 
         }
-    
+        [HttpPost("register")]
+        public IActionResult Register(UserForRegisterDto userForRegisterDto)
+        {
+            var userExsits = _authService.UserExists(userForRegisterDto.Mail);
+            if (!userExsits.Success)
+            {
+                return BadRequest(userExsits.Message);
+            }
 
+            var registerResult = _authService.Register(userForRegisterDto,userForRegisterDto.Password);
+            var result = _authService.CreateAccessToken(registerResult.Data);
+            if (result.Success)
+            {
+                return Ok(result.Data);
+
+            }
+
+            return BadRequest(result.Message);
+        }
 
     }
-    }
+}

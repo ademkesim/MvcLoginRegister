@@ -33,7 +33,6 @@ C:\PoldyProjects\MvcLoginRegister\WebMvc\Core\bin\Debug\netstandard2.0\Core.deps
 C:\PoldyProjects\MvcLoginRegister\WebMvc\Core\bin\Debug\netstandard2.0\Core.dll
 C:\PoldyProjects\MvcLoginRegister\WebMvc\Core\bin\Debug\netstandard2.0\Core.pdb
 C:\PoldyProjects\MvcLoginRegister\WebMvc\Core\obj\Debug\netstandard2.0\Core.csprojAssemblyReference.cache
-C:\PoldyProjects\MvcLoginRegister\WebMvc\Core\obj\Debug\netstandard2.0\Core.csproj.CoreCompileInputs.cache
 C:\PoldyProjects\MvcLoginRegister\WebMvc\Core\obj\Debug\netstandard2.0\Core.AssemblyInfoInputs.cache
 C:\PoldyProjects\MvcLoginRegister\WebMvc\Core\obj\Debug\netstandard2.0\Core.AssemblyInfo.cs
 C:\PoldyProjects\MvcLoginRegister\WebMvc\Core\obj\Debug\netstandard2.0\Core.dll
@@ -47,3 +46,4 @@ C:\Users\hhson\Source\Repos\MvcLoginRegister3\WebMvc\Core\obj\Debug\netstandard2
 C:\Users\hhson\Source\Repos\MvcLoginRegister3\WebMvc\Core\obj\Debug\netstandard2.0\Core.AssemblyInfo.cs
 C:\Users\hhson\Source\Repos\MvcLoginRegister3\WebMvc\Core\obj\Debug\netstandard2.0\Core.dll
 C:\Users\hhson\Source\Repos\MvcLoginRegister3\WebMvc\Core\obj\Debug\netstandard2.0\Core.pdb
+C:\PoldyProjects\MvcLoginRegister\WebMvc\Core\obj\Debug\netstandard2.0\Core.csproj.CoreCompileInputs.cache

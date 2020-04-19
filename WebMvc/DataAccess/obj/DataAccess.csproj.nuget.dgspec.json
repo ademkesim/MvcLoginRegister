@@ -1,24 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hhson\\Source\\Repos\\MvcLoginRegister3\\WebMvc\\DataAccess\\DataAccess.csproj": {}
+    "C:\\PoldyProjects\\MvcLoginRegister\\WebMvc\\DataAccess\\DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hhson\\Source\\Repos\\MvcLoginRegister3\\WebMvc\\Core\\Core.csproj": {
+    "C:\\PoldyProjects\\MvcLoginRegister\\WebMvc\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hhson\\Source\\Repos\\MvcLoginRegister3\\WebMvc\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\PoldyProjects\\MvcLoginRegister\\WebMvc\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\hhson\\Source\\Repos\\MvcLoginRegister3\\WebMvc\\Core\\Core.csproj",
-        "packagesPath": "C:\\Users\\hhson\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hhson\\Source\\Repos\\MvcLoginRegister3\\WebMvc\\Core\\obj\\",
+        "projectPath": "C:\\PoldyProjects\\MvcLoginRegister\\WebMvc\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\ademk\\.nuget\\packages\\",
+        "outputPath": "C:\\PoldyProjects\\MvcLoginRegister\\WebMvc\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\hhson\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\ademk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
@@ -41,6 +42,10 @@
       "frameworks": {
         "netstandard2.0": {
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[3.1.3, )"
@@ -78,21 +83,22 @@
         }
       }
     },
-    "C:\\Users\\hhson\\Source\\Repos\\MvcLoginRegister3\\WebMvc\\DataAccess\\DataAccess.csproj": {
+    "C:\\PoldyProjects\\MvcLoginRegister\\WebMvc\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hhson\\Source\\Repos\\MvcLoginRegister3\\WebMvc\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\PoldyProjects\\MvcLoginRegister\\WebMvc\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\hhson\\Source\\Repos\\MvcLoginRegister3\\WebMvc\\DataAccess\\DataAccess.csproj",
-        "packagesPath": "C:\\Users\\hhson\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hhson\\Source\\Repos\\MvcLoginRegister3\\WebMvc\\DataAccess\\obj\\",
+        "projectPath": "C:\\PoldyProjects\\MvcLoginRegister\\WebMvc\\DataAccess\\DataAccess.csproj",
+        "packagesPath": "C:\\Users\\ademk\\.nuget\\packages\\",
+        "outputPath": "C:\\PoldyProjects\\MvcLoginRegister\\WebMvc\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\hhson\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\ademk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
@@ -104,8 +110,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\hhson\\Source\\Repos\\MvcLoginRegister3\\WebMvc\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\hhson\\Source\\Repos\\MvcLoginRegister3\\WebMvc\\Entities\\Entities.csproj"
+              "C:\\PoldyProjects\\MvcLoginRegister\\WebMvc\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\PoldyProjects\\MvcLoginRegister\\WebMvc\\Entities\\Entities.csproj"
               }
             }
           }
@@ -119,6 +125,10 @@
       "frameworks": {
         "netstandard2.0": {
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
             "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",
@@ -140,21 +150,22 @@
         }
       }
     },
-    "C:\\Users\\hhson\\Source\\Repos\\MvcLoginRegister3\\WebMvc\\Entities\\Entities.csproj": {
+    "C:\\PoldyProjects\\MvcLoginRegister\\WebMvc\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hhson\\Source\\Repos\\MvcLoginRegister3\\WebMvc\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\PoldyProjects\\MvcLoginRegister\\WebMvc\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\hhson\\Source\\Repos\\MvcLoginRegister3\\WebMvc\\Entities\\Entities.csproj",
-        "packagesPath": "C:\\Users\\hhson\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hhson\\Source\\Repos\\MvcLoginRegister3\\WebMvc\\Entities\\obj\\",
+        "projectPath": "C:\\PoldyProjects\\MvcLoginRegister\\WebMvc\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\ademk\\.nuget\\packages\\",
+        "outputPath": "C:\\PoldyProjects\\MvcLoginRegister\\WebMvc\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\hhson\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\ademk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
@@ -166,8 +177,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\hhson\\Source\\Repos\\MvcLoginRegister3\\WebMvc\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\hhson\\Source\\Repos\\MvcLoginRegister3\\WebMvc\\Core\\Core.csproj"
+              "C:\\PoldyProjects\\MvcLoginRegister\\WebMvc\\Core\\Core.csproj": {
+                "projectPath": "C:\\PoldyProjects\\MvcLoginRegister\\WebMvc\\Core\\Core.csproj"
               }
             }
           }
@@ -181,6 +192,10 @@
       "frameworks": {
         "netstandard2.0": {
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
             "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",
