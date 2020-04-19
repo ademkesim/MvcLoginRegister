@@ -6447,19 +6447,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\retat\\.nuget\\packages\\": {}
+    "C:\\Users\\Ferit\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\retat\\Source\\Repos\\MvcLoginRegister\\WebMvc\\Business\\Business.csproj",
+      "projectUniqueName": "C:\\Users\\Ferit\\Source\\Repos\\MvcLoginRegister\\WebMvc\\Business\\Business.csproj",
       "projectName": "Business",
-      "projectPath": "C:\\Users\\retat\\Source\\Repos\\MvcLoginRegister\\WebMvc\\Business\\Business.csproj",
-      "packagesPath": "C:\\Users\\retat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\retat\\Source\\Repos\\MvcLoginRegister\\WebMvc\\Business\\obj\\",
+      "projectPath": "C:\\Users\\Ferit\\Source\\Repos\\MvcLoginRegister\\WebMvc\\Business\\Business.csproj",
+      "packagesPath": "C:\\Users\\Ferit\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ferit\\Source\\Repos\\MvcLoginRegister\\WebMvc\\Business\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\retat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Ferit\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6472,14 +6476,14 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\retat\\Source\\Repos\\MvcLoginRegister\\WebMvc\\Core\\Core.csproj": {
-              "projectPath": "C:\\Users\\retat\\Source\\Repos\\MvcLoginRegister\\WebMvc\\Core\\Core.csproj"
+            "C:\\Users\\Ferit\\Source\\Repos\\MvcLoginRegister\\WebMvc\\Core\\Core.csproj": {
+              "projectPath": "C:\\Users\\Ferit\\Source\\Repos\\MvcLoginRegister\\WebMvc\\Core\\Core.csproj"
             },
-            "C:\\Users\\retat\\Source\\Repos\\MvcLoginRegister\\WebMvc\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "C:\\Users\\retat\\Source\\Repos\\MvcLoginRegister\\WebMvc\\DataAccess\\DataAccess.csproj"
+            "C:\\Users\\Ferit\\Source\\Repos\\MvcLoginRegister\\WebMvc\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "C:\\Users\\Ferit\\Source\\Repos\\MvcLoginRegister\\WebMvc\\DataAccess\\DataAccess.csproj"
             },
-            "C:\\Users\\retat\\Source\\Repos\\MvcLoginRegister\\WebMvc\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\retat\\Source\\Repos\\MvcLoginRegister\\WebMvc\\Entities\\Entities.csproj"
+            "C:\\Users\\Ferit\\Source\\Repos\\MvcLoginRegister\\WebMvc\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\Ferit\\Source\\Repos\\MvcLoginRegister\\WebMvc\\Entities\\Entities.csproj"
             }
           }
         }
